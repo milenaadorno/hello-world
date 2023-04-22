@@ -4,9 +4,9 @@ Atividade 1 UNICESUMAR
 
 ```
 {
-  "firstName": "Milena",
-  "lastName": "Nogueira Caldas Adorno da Silva",
-  "age": 40,
+  "nome": "Milena",
+  "sobrenome": "Nogueira Caldas Adorno da Silva",
+  "idade": 40,
   }
 ```
 ## Sou mulher, mãe e futura programadora!!
